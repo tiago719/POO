@@ -1,0 +1,43 @@
+dim 21 41
+moedas 100
+oponentes 1
+castelo azul 5 5
+castelo verde 15 15
+mkperfil A
+mkperfil B
+mkperfil D
+mkperfil E
+mkperfil F
+addperfil a 1
+addperfil a 6
+addperfil a 5
+addperfil a 3
+addperfil a 4
+addperfil a 7
+addperfil a 9
+addperfil b 1
+addperfil b 5
+addperfil b 8
+addperfil b 10
+addperfil b 12
+addperfil b 6
+addperfil F 1
+addperfil F 3
+addperfil F 4
+addperfil F 5
+addperfil F 7
+addperfil F 11
+addperfil d 1
+addperfil d 3
+addperfil d 4
+addperfil d 5
+addperfil d 11
+addperfil d 12
+addperfil e 1
+addperfil e 6
+addperfil e 6
+addperfil e 6
+addperfil e 6
+addperfil e 10
+inicio
+
